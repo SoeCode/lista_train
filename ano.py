@@ -47,3 +47,4 @@ print(f'terceiro valor mais vendido: {lista_maior_vendas[2]:,.2f}')
 #print('fim')
 
 #testando branch
+#testando branch 3
